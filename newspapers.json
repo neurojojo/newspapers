@@ -1,0 +1,1352 @@
+{
+  "Alabama": [
+    {
+      "newspaper": "The Birmingham News",
+      "url": "https://www.al.com/birmingham/",
+      "request": []
+    },
+    {
+      "newspaper": "Montgomery Advertiser",
+      "url": "https://www.montgomeryadvertiser.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Huntsville Times",
+      "url": "https://www.al.com/huntsville/",
+      "request": []
+    },
+    {
+      "newspaper": "Mobile Press-Register",
+      "url": "https://www.al.com/mobile/",
+      "request": []
+    },
+    {
+      "newspaper": "Tuscaloosa News",
+      "url": "https://www.tuscaloosanews.com/",
+      "request": []
+    }
+  ],
+  "Alaska": [
+    {
+      "newspaper": "Anchorage Daily News",
+      "url": "https://www.adn.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Fairbanks Daily News-Miner",
+      "url": "https://www.newsminer.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Juneau Empire",
+      "url": "https://www.juneauempire.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Kodiak Daily Mirror",
+      "url": "https://www.kodiakdailymirror.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Peninsula Clarion",
+      "url": "https://www.peninsulaclarion.com/",
+      "request": []
+    }
+  ],
+  "Arizona": [
+    {
+      "newspaper": "The Arizona Republic",
+      "url": "https://www.azcentral.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Tucson Daily Star",
+      "url": "https://tucson.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Daily Courier (Prescott)",
+      "url": "https://www.dcourier.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Kingman Daily Miner",
+      "url": "https://kdminer.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Yuma Sun",
+      "url": "https://www.yumasun.com/",
+      "request": []
+    }
+  ],
+  "Arkansas": [
+    {
+      "newspaper": "Arkansas Democrat-Gazette",
+      "url": "https://www.arkansasonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Northwest Arkansas Democrat-Gazette",
+      "url": "https://www.nwaonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Arkansas Times",
+      "url": "https://arktimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Jonesboro Sun",
+      "url": "https://www.jonesborosun.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Pine Bluff Commercial",
+      "url": "https://www.pbcommercial.com/",
+      "request": []
+    }
+  ],
+  "California": [
+    {
+      "newspaper": "Los Angeles Times",
+      "url": "https://www.latimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "San Francisco Chronicle",
+      "url": "https://www.sfchronicle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Sacramento Bee",
+      "url": "https://www.sacbee.com/",
+      "request": []
+    },
+    {
+      "newspaper": "San Diego Union-Tribune",
+      "url": "https://www.sandiegouniontribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Orange County Register",
+      "url": "https://www.ocregister.com/",
+      "request": []
+    }
+  ],
+  "Colorado": [
+    {
+      "newspaper": "The Denver Post",
+      "url": "https://www.denverpost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Colorado Springs Gazette",
+      "url": "https://gazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Boulder Daily Camera",
+      "url": "https://www.dailycamera.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Greeley Tribune",
+      "url": "https://www.greeleytribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Fort Collins Coloradoan",
+      "url": "https://www.coloradoan.com/",
+      "request": []
+    }
+  ],
+  "Connecticut": [
+    {
+      "newspaper": "Hartford Courant",
+      "url": "https://www.courant.com/",
+      "request": []
+    },
+    {
+      "newspaper": "New Haven Register",
+      "url": "https://www.nhregister.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Stamford Advocate",
+      "url": "https://www.stamfordadvocate.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Day (New London)",
+      "url": "https://www.theday.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Connecticut Post",
+      "url": "https://www.ctpost.com/",
+      "request": []
+    }
+  ],
+  "Delaware": [
+    {
+      "newspaper": "The News Journal (Wilmington)",
+      "url": "https://www.delawareonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Dover Post",
+      "url": "https://www.doverpost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Sussex Countian",
+      "url": "https://www.sussexcountian.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Middletown Transcript",
+      "url": "https://www.middletowntranscript.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Hockessin Community News",
+      "url": "https://www.hockessincommunitynews.com/",
+      "request": []
+    }
+  ],
+  "Florida": [
+    {
+      "newspaper": "Miami Herald",
+      "url": "https://www.miamiherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Tampa Bay Times",
+      "url": "https://www.tampabay.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Palm Beach Post",
+      "url": "https://www.palmbeachpost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Florida Times-Union (Jacksonville)",
+      "url": "https://www.jacksonville.com/",
+      "request": []
+    }
+  ],
+  "Georgia": [
+    {
+      "newspaper": "The Atlanta Journal-Constitution",
+      "url": "https://www.ajc.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Savannah Morning News",
+      "url": "https://www.savannahnow.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Augusta Chronicle",
+      "url": "https://www.augustachronicle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Macon Telegraph",
+      "url": "https://www.macon.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Columbus Ledger-Enquirer",
+      "url": "https://www.ledger-enquirer.com/",
+      "request": []
+    }
+  ],
+  "Hawaii": [
+    {
+      "newspaper": "Honolulu Star-Advertiser",
+      "url": "https://www.staradvertiser.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Maui News",
+      "url": "https://www.mauinews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "West Hawaii Today",
+      "url": "https://www.westhawaiitoday.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Garden Island (Kauai)",
+      "url": "https://www.thegardenisland.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Hawaii Tribune-Herald",
+      "url": "https://www.hawaiitribune-herald.com/",
+      "request": []
+    }
+  ],
+  "Idaho": [
+    {
+      "newspaper": "Idaho Statesman (Boise)",
+      "url": "https://www.idahostatesman.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Idaho Press-Tribune (Nampa)",
+      "url": "https://www.idahopress.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Post Register (Idaho Falls)",
+      "url": "https://www.postregister.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Lewiston Tribune",
+      "url": "https://lmtribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Times-News (Twin Falls)",
+      "url": "https://magicvalley.com/",
+      "request": []
+    }
+  ],
+  "Illinois": [
+    {
+      "newspaper": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The State Journal-Register (Springfield)",
+      "url": "https://www.sj-r.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Pantagraph (Bloomington)",
+      "url": "https://www.pantagraph.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Belleville News-Democrat",
+      "url": "https://www.bnd.com/",
+      "request": []
+    }
+  ],
+  "Indiana": [
+    {
+      "newspaper": "The Indianapolis Star",
+      "url": "https://www.indystar.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Journal Gazette (Fort Wayne)",
+      "url": "https://www.journalgazette.net/",
+      "request": []
+    },
+    {
+      "newspaper": "The Times (Munster)",
+      "url": "https://www.nwitimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Evansville Courier & Press",
+      "url": "https://www.courierpress.com/",
+      "request": []
+    },
+    {
+      "newspaper": "South Bend Tribune",
+      "url": "https://www.southbendtribune.com/",
+      "request": []
+    }
+  ],
+  "Iowa": [
+    {
+      "newspaper": "Des Moines Register",
+      "url": "https://www.desmoinesregister.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Gazette (Cedar Rapids)",
+      "url": "https://www.thegazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Quad-City Times (Davenport)",
+      "url": "https://qctimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Sioux City Journal",
+      "url": "https://siouxcityjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Iowa City Press-Citizen",
+      "url": "https://www.press-citizen.com/",
+      "request": []
+    }
+  ],
+  "Kansas": [
+    {
+      "newspaper": "The Wichita Eagle",
+      "url": "https://www.kansas.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Kansas City Star",
+      "url": "https://www.kansascity.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Topeka Capital-Journal",
+      "url": "https://www.cjonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Lawrence Journal-World",
+      "url": "https://www2.ljworld.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Salina Journal",
+      "url": "https://www.salina.com/",
+      "request": []
+    }
+  ],
+  "Kentucky": [
+    {
+      "newspaper": "Courier-Journal (Louisville)",
+      "url": "https://www.courier-journal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Lexington Herald-Leader",
+      "url": "https://www.kentucky.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Kentucky Enquirer (Covington)",
+      "url": "https://www.cincinnati.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Bowling Green Daily News",
+      "url": "https://www.bgdailynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Owensboro Messenger-Inquirer",
+      "url": "https://www.messenger-inquirer.com/",
+      "request": []
+    }
+  ],
+  "Louisiana": [
+    {
+      "newspaper": "The Times-Picayune (New Orleans)",
+      "url": "https://www.nola.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Advocate (Baton Rouge)",
+      "url": "https://www.theadvocate.com/baton_rouge/",
+      "request": []
+    },
+    {
+      "newspaper": "The News-Star (Monroe)",
+      "url": "https://www.thenewsstar.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Daily Advertiser (Lafayette)",
+      "url": "https://www.theadvertiser.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Town Talk (Alexandria)",
+      "url": "https://www.thetowntalk.com/",
+      "request": []
+    }
+  ],
+  "Maine": [
+    {
+      "newspaper": "Portland Press Herald",
+      "url": "https://www.pressherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Bangor Daily News",
+      "url": "https://bangordailynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Sun Journal (Lewiston)",
+      "url": "https://www.sunjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Ellsworth American",
+      "url": "https://www.ellsworthamerican.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Forecaster (Falmouth)",
+      "url": "https://www.pressherald.com/forecaster/",
+      "request": []
+    }
+  ],
+  "Maryland": [
+    {
+      "newspaper": "The Baltimore Sun",
+      "url": "https://www.baltimoresun.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Capital (Annapolis)",
+      "url": "https://www.capitalgazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Frederick News-Post",
+      "url": "https://www.fredericknewspost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Daily Record (Baltimore)",
+      "url": "https://thedailyrecord.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Daily Times (Salisbury)",
+      "url": "https://www.delmarvanow.com/",
+      "request": []
+    }
+  ],
+  "Massachusetts": [
+    {
+      "newspaper": "The Boston Globe",
+      "url": "https://www.bostonglobe.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Boston Herald",
+      "url": "https://www.bostonherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Republican (Springfield)",
+      "url": "https://www.masslive.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Patriot Ledger (Quincy)",
+      "url": "https://www.patriotledger.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Cape Cod Times (Hyannis)",
+      "url": "https://www.capecodtimes.com/",
+      "request": []
+    }
+  ],
+  "Michigan": [
+    {
+      "newspaper": "Detroit Free Press",
+      "url": "https://www.freep.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Grand Rapids Press",
+      "url": "https://www.mlive.com/grand-rapids/",
+      "request": []
+    },
+    {
+      "newspaper": "Lansing State Journal",
+      "url": "https://www.lansingstatejournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Traverse City Record-Eagle",
+      "url": "https://www.record-eagle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Kalamazoo Gazette",
+      "url": "https://www.mlive.com/kalamazoo/",
+      "request": []
+    }
+  ],
+  "Minnesota": [
+    {
+      "newspaper": "Star Tribune (Minneapolis)",
+      "url": "https://www.startribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Pioneer Press (St. Paul)",
+      "url": "https://www.twincities.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Duluth News Tribune",
+      "url": "https://www.duluthnewstribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "St. Cloud Times",
+      "url": "https://www.sctimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Rochester Post Bulletin",
+      "url": "https://www.postbulletin.com/",
+      "request": []
+    }
+  ],
+  "Mississippi": [
+    {
+      "newspaper": "The Clarion-Ledger (Jackson)",
+      "url": "https://www.clarionledger.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Sun Herald (Biloxi)",
+      "url": "https://www.sunherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Hattiesburg American",
+      "url": "https://www.hattiesburgamerican.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Oxford Eagle",
+      "url": "https://www.oxfordeagle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Natchez Democrat",
+      "url": "https://www.natchezdemocrat.com/",
+      "request": []
+    }
+  ],
+  "Missouri": [
+    {
+      "newspaper": "The Kansas City Star",
+      "url": "https://www.kansascity.com/",
+      "request": []
+    },
+    {
+      "newspaper": "St. Louis Post-Dispatch",
+      "url": "https://www.stltoday.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Springfield News-Leader",
+      "url": "https://www.news-leader.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Columbia Missourian",
+      "url": "https://www.columbiamissourian.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Joplin Globe",
+      "url": "https://www.joplinglobe.com/",
+      "request": []
+    }
+  ],
+  "Montana": [
+    {
+      "newspaper": "Billings Gazette",
+      "url": "https://billingsgazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Missoulian (Missoula)",
+      "url": "https://missoulian.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Great Falls Tribune",
+      "url": "https://www.greatfallstribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Bozeman Daily Chronicle",
+      "url": "https://www.bozemandailychronicle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Helena Independent Record",
+      "url": "https://helenair.com/",
+      "request": []
+    }
+  ],
+  "Nebraska": [
+    {
+      "newspaper": "Omaha World-Herald",
+      "url": "https://www.omaha.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Lincoln Journal Star",
+      "url": "https://journalstar.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Kearney Hub",
+      "url": "https://www.kearneyhub.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Grand Island Independent",
+      "url": "https://theindependent.com/",
+      "request": []
+    },
+    {
+      "newspaper": "North Platte Telegraph",
+      "url": "https://www.nptelegraph.com/",
+      "request": []
+    }
+  ],
+  "Nevada": [
+    {
+      "newspaper": "Las Vegas Review-Journal",
+      "url": "https://www.reviewjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Reno Gazette-Journal",
+      "url": "https://www.rgj.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Elko Daily Free Press",
+      "url": "https://elkodaily.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Lahontan Valley News (Fallon)",
+      "url": "https://www.lahontanvalleynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Record-Courier (Gardnerville)",
+      "url": "https://www.recordcourier.com/",
+      "request": []
+    }
+  ],
+  "New Hampshire": [
+    {
+      "newspaper": "Union Leader (Manchester)",
+      "url": "https://www.unionleader.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Concord Monitor",
+      "url": "https://www.concordmonitor.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Valley News (Lebanon)",
+      "url": "https://www.vnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Portsmouth Herald",
+      "url": "https://www.seacoastonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Keene Sentinel",
+      "url": "https://www.sentinelsource.com/",
+      "request": []
+    }
+  ],
+  "New Jersey": [
+    {
+      "newspaper": "The Star-Ledger (Newark)",
+      "url": "https://www.nj.com/starledger/",
+      "request": []
+    },
+    {
+      "newspaper": "Asbury Park Press",
+      "url": "https://www.app.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Record (Bergen County)",
+      "url": "https://www.northjersey.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Courier-Post (Cherry Hill)",
+      "url": "https://www.courierpostonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Press of Atlantic City",
+      "url": "https://www.pressofatlanticcity.com/",
+      "request": []
+    }
+  ],
+  "New Mexico": [
+    {
+      "newspaper": "Albuquerque Journal",
+      "url": "https://www.abqjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Santa Fe New Mexican",
+      "url": "https://www.santafenewmexican.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Las Cruces Sun-News",
+      "url": "https://www.lcsun-news.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Roswell Daily Record",
+      "url": "https://www.rdrnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Silver City Daily Press",
+      "url": "https://www.scdailypress.com/",
+      "request": []
+    }
+  ],
+  "New York": [
+    {
+      "newspaper": "The New York Times",
+      "url": "https://www.nytimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "New York Post",
+      "url": "https://nypost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Newsday (Long Island)",
+      "url": "https://www.newsday.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Rochester Democrat and Chronicle",
+      "url": "https://www.democratandchronicle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Buffalo News",
+      "url": "https://buffalonews.com/",
+      "request": []
+    }
+  ],
+  "North Carolina": [
+    {
+      "newspaper": "The News & Observer (Raleigh)",
+      "url": "https://www.newsobserver.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Charlotte Observer",
+      "url": "https://www.charlotteobserver.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Winston-Salem Journal",
+      "url": "https://www.journalnow.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Fayetteville Observer",
+      "url": "https://www.fayobserver.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The News Herald (Morganton)",
+      "url": "https://www.morganton.com/",
+      "request": []
+    }
+  ],
+  "North Dakota": [
+    {
+      "newspaper": "The Bismarck Tribune",
+      "url": "https://bismarcktribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Forum (Fargo)",
+      "url": "https://www.inforum.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Grand Forks Herald",
+      "url": "https://www.grandforksherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Minot Daily News",
+      "url": "https://www.minotdailynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Jamestown Sun",
+      "url": "https://www.jamestownsun.com/",
+      "request": []
+    }
+  ],
+  "Ohio": [
+    {
+      "newspaper": "The Columbus Dispatch",
+      "url": "https://www.dispatch.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Plain Dealer (Cleveland)",
+      "url": "https://www.cleveland.com/plaindealer/",
+      "request": []
+    },
+    {
+      "newspaper": "The Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Dayton Daily News",
+      "url": "https://www.daytondailynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/",
+      "request": []
+    }
+  ],
+  "Oklahoma": [
+    {
+      "newspaper": "The Oklahoman (Oklahoma City)",
+      "url": "https://www.oklahoman.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Tulsa World",
+      "url": "https://www.tulsaworld.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Norman Transcript",
+      "url": "https://www.normantranscript.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Edmond Sun",
+      "url": "https://www.edmondsun.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Ada News",
+      "url": "https://www.theadanews.com/",
+      "request": []
+    }
+  ],
+  "Oregon": [
+    {
+      "newspaper": "The Oregonian (Portland)",
+      "url": "https://www.oregonlive.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Register-Guard (Eugene)",
+      "url": "https://www.registerguard.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Statesman Journal (Salem)",
+      "url": "https://www.statesmanjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Mail Tribune (Medford)",
+      "url": "https://www.mailtribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "East Oregonian (Pendleton)",
+      "url": "https://www.eastoregonian.com/",
+      "request": []
+    }
+  ],
+  "Pennsylvania": [
+    {
+      "newspaper": "The Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Pittsburgh Post-Gazette",
+      "url": "https://www.post-gazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Patriot-News (Harrisburg)",
+      "url": "https://www.pennlive.com/patriotnews/",
+      "request": []
+    },
+    {
+      "newspaper": "The Morning Call (Allentown)",
+      "url": "https://www.mcall.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Erie Times-News",
+      "url": "https://www.goerie.com/",
+      "request": []
+    }
+  ],
+  "Rhode Island": [
+    {
+      "newspaper": "The Providence Journal",
+      "url": "https://www.providencejournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Newport Daily News",
+      "url": "https://www.newportdailynews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Westerly Sun",
+      "url": "https://www.thewesterlysun.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Pawtucket Times",
+      "url": "https://www",
+      "request": []
+    },
+    {
+      "newspaper": "The Block Island Times",
+      "url": "https://www.blockislandtimes.com/",
+      "request": []
+    }
+  ],
+  "South Carolina": [
+    {
+      "newspaper": "The State (Columbia)",
+      "url": "https://www.thestate.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Post and Courier (Charleston)",
+      "url": "https://www.postandcourier.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Greenville News",
+      "url": "https://www.greenvilleonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Herald-Journal (Spartanburg)",
+      "url": "https://www.goupstate.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Aiken Standard",
+      "url": "https://www.aikenstandard.com/",
+      "request": []
+    }
+  ],
+  "South Dakota": [
+    {
+      "newspaper": "Argus Leader (Sioux Falls)",
+      "url": "https://www.argusleader.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Rapid City Journal",
+      "url": "https://rapidcityjournal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Aberdeen American News",
+      "url": "https://www.aberdeennews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Watertown Public Opinion",
+      "url": "https://www.thepublicopinion.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Yankton Daily Press & Dakotan",
+      "url": "https://www.yankton.net/",
+      "request": []
+    }
+  ],
+  "Tennessee": [
+    {
+      "newspaper": "The Tennessean (Nashville)",
+      "url": "https://www.tennessean.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Commercial Appeal (Memphis)",
+      "url": "https://www.commercialappeal.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Knoxville News Sentinel",
+      "url": "https://www.knoxnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Chattanooga Times Free Press",
+      "url": "https://www.timesfreepress.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Jackson Sun",
+      "url": "https://www.jacksonsun.com/",
+      "request": []
+    }
+  ],
+  "Texas": [
+    {
+      "newspaper": "Houston Chronicle",
+      "url": "https://www.houstonchronicle.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Dallas Morning News",
+      "url": "https://www.dallasnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Austin American-Statesman",
+      "url": "https://www.statesman.com/",
+      "request": []
+    },
+    {
+      "newspaper": "San Antonio Express-News",
+      "url": "https://www.expressnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Fort Worth Star-Telegram",
+      "url": "https://www.star-telegram.com/",
+      "request": []
+    }
+  ],
+  "Utah": [
+    {
+      "newspaper": "The Salt Lake Tribune",
+      "url": "https://www.sltrib.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Deseret News (Salt Lake City)",
+      "url": "https://www.deseret.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Herald Journal (Logan)",
+      "url": "https://www.hjnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Standard-Examiner (Ogden)",
+      "url": "https://www.standard.net/",
+      "request": []
+    },
+    {
+      "newspaper": "St. George News",
+      "url": "https://www.stgeorgeutah.com/",
+      "request": []
+    }
+  ],
+  "Vermont": [
+    {
+      "newspaper": "Burlington Free Press",
+      "url": "https://www.burlingtonfreepress.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Rutland Herald",
+      "url": "https://www.rutlandherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Bennington Banner",
+      "url": "https://www.benningtonbanner.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Brattleboro Reformer",
+      "url": "https://www.reformer.com/",
+      "request": []
+    },
+    {
+      "newspaper": "St. Albans Messenger",
+      "url": "https://www.samessenger.com/",
+      "request": []
+    }
+  ],
+  "Virginia": [
+    {
+      "newspaper": "The Washington Post",
+      "url": "https://www.washingtonpost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Richmond Times-Dispatch",
+      "url": "https://www.richmond.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Virginian-Pilot (Norfolk)",
+      "url": "https://www.pilotonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Roanoke Times",
+      "url": "https://www.roanoke.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The News & Advance (Lynchburg)",
+      "url": "https://newsadvance.com/",
+      "request": []
+    }
+  ],
+  "Washington": [
+    {
+      "newspaper": "The Seattle Times",
+      "url": "https://www.seattletimes.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Spokesman-Review (Spokane)",
+      "url": "https://www.spokesman.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The News Tribune (Tacoma)",
+      "url": "https://www.thenewstribune.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Yakima Herald-Republic",
+      "url": "https://www.yakimaherald.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Olympian (Olympia)",
+      "url": "https://www.theolympian.com/",
+      "request": []
+    }
+  ],
+  "West Virginia": [
+    {
+      "newspaper": "Charleston Gazette-Mail",
+      "url": "https://www.wvgazettemail.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Herald-Dispatch (Huntington)",
+      "url": "https://www.herald-dispatch.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Dominion Post (Morgantown)",
+      "url": "https://www.dominionpost.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Parkersburg News and Sentinel",
+      "url": "https://www.newsandsentinel.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Intelligencer (Wheeling)",
+      "url": "https://www.theintelligencer.net/",
+      "request": []
+    }
+  ],
+  "Wisconsin": [
+    {
+      "newspaper": "Milwaukee Journal Sentinel",
+      "url": "https://www.jsonline.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Wisconsin State Journal (Madison)",
+      "url": "https://madison.com/wsj/",
+      "request": []
+    },
+    {
+      "newspaper": "Green Bay Press-Gazette",
+      "url": "https://www.greenbaypressgazette.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Post-Crescent (Appleton)",
+      "url": "https://www.postcrescent.com/",
+      "request": []
+    },
+    {
+      "newspaper": "The Sheboygan Press",
+      "url": "https://www.sheboyganpress.com/",
+      "request": []
+    }
+  ],
+  "Wyoming": [
+    {
+      "newspaper": "Casper Star-Tribune",
+      "url": "https://trib.com/news/local/casper/",
+      "request": []
+    },
+    {
+      "newspaper": "Wyoming Tribune Eagle (Cheyenne)",
+      "url": "https://www.wyomingnews.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Laramie Boomerang",
+      "url": "https://www.laramieboomerang.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Jackson Hole News & Guide",
+      "url": "https://www.jhnewsandguide.com/",
+      "request": []
+    },
+    {
+      "newspaper": "Gillette News Record",
+      "url": "https://www.gillettenewsrecord.com/",
+      "request": []
+    }
+  ]
+}
